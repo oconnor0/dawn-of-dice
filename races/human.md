@@ -1,0 +1,5 @@
+HUMAN
+
+BODY 2
+MIND 2
+WILL 2
