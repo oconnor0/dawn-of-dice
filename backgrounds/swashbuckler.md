@@ -12,7 +12,9 @@ Starting equipment:
 
 While unarmored, add GRIT to your DEF.
 
-Spend GRIT: Once per round, when hit by a melee attack you may Parry. (Parry forces the attacking enemy to reroll the attack roll. Up to one time.)
+Precision [Broadsword, Backsword, or Rapier].
+
+Spend GRIT: Once per round, when hit by a melee attack, you may Parry.
 
 Talents:
   - Benefits at each tier:
@@ -26,7 +28,7 @@ Talents:
     - Spend GRIT: Once per round, make an additional melee attack.
     - Once per round, when hit by a melee attack you may Riposte. (Riposte: After the attack is resolved, make a free melee attack against your attacker.)
     - Spend GRIT: Once per melee hit, the target suffers Bleed. (Bleed: The target gains a Bleed dice.)
-    - Your melee attacks gain +2d10-2L.
+    - Your melee attacks gain d10.
   - Defense:
     - +1 DEF
     - You may use Parry vs ranged attacks.
